@@ -1,0 +1,22 @@
+# Compiled output
+*.class
+out/
+bin/
+target/
+
+# Runtime database files (customer accounts - never commit)
+data/
+sources.txt
+
+# IDE / editor
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/
+
+# OS
+.DS_Store
+Thumbs.db
